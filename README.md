@@ -4,7 +4,7 @@ Portafolio del proyecto de investigación — SOCI 4186, UPR Río Piedras
 
 ## Sobre mí
 
-- Nombre (o pseudónimo): Naya N Robles Pérez 
+- Nombre: Naya N Robles Pérez 
 - Concentración y año: Estudiando Sociología en mi 6to año de universidad de UPR RP 
 - Por qué tomo este curso: Por necesidad 
 
